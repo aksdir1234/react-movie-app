@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aksdir1234/react-movie-app.git/static/css/main.02960c61.css",
+    "main.js": "/aksdir1234/react-movie-app.git/static/js/main.c7880769.js",
+    "index.html": "/aksdir1234/react-movie-app.git/index.html",
+    "main.02960c61.css.map": "/aksdir1234/react-movie-app.git/static/css/main.02960c61.css.map",
+    "main.c7880769.js.map": "/aksdir1234/react-movie-app.git/static/js/main.c7880769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02960c61.css",
+    "static/js/main.c7880769.js"
+  ]
+}
